@@ -35,7 +35,7 @@ A production-grade static website hosted on S3 with CloudFront CDN, HTTPS, and O
 - S3 locked down — only CloudFront can access via OAC
 - Cache invalidation for instant updates
 
-🔗 [View Repository](https://github.com/YOUR-USERNAME/aws-cloud-projects)
+🔗 [View Repository]([https://github.com/YOUR-USERNAME/aws-cloud-projects](https://github.com/mepranavpatil/aws-cloud-projects/tree/0b13434fb2f0313112e491e9f5501ff5d6cea5b1/project-1-s3-static-site))
 
 ---
 
