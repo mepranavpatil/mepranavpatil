@@ -1,4 +1,4 @@
-# Hey, I'm Pranav 👋
+# Hey, I'm Pranav Patil. 👋
 
 ### Cloud & DevOps Engineer in the making
 
